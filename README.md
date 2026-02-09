@@ -3,7 +3,7 @@
 A modern responsive hero section built using **HTML5** and **Tailwind CSS**.
 
 ## Features
-- Clean SaaS design
+- Clean design
 - Fully responsive layout
 - Tailwind CSS only
 - Semantic HTML structure
